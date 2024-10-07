@@ -1,6 +1,6 @@
 public class StudentApp {
     public static void main(String[] args) {
-        Student firstSudent = new Student();
+        Student firstStudent = new Student();
         firstStudent.setName("x");
         firstStudent.setEmail("x@atu.ie");
         firstStudent.setCourse("x");
